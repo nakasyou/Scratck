@@ -1,2 +1,2 @@
 # Scratck
-A scratch cli box
+A Scratch's cli box
