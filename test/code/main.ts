@@ -1,0 +1,1 @@
+import {compile} from "../../code/index.ts";

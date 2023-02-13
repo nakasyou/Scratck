@@ -1,6 +1,7 @@
 {
+    "code-runner.runInTerminal": true,
     "code-runner.executorMap":{
-        "typescript":"deno run -A",
+        "typescript":"deno run -A $fullFileName",
     },
     "deno.enable": true,
     "[typescript]": {
