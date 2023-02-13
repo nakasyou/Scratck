@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap":{
+        "typescript":"deno run -A",
+    },
+    "deno.enable": true,
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+}
